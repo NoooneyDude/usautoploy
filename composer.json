@@ -1,0 +1,12 @@
+{
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-pcntl": "*",
+        "ext-shmop": "*",
+        "bernard/bernard": "^0.13.0",
+        "beyondcode/expose": "^2.0",
+        "symfony/process": "^5.4",
+        "gitonomy/gitlib": "^1.3"
+    }
+}

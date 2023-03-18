@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./vendor/bin/expose share https://usautoploy.deb.local --subdomain usautoploy
